@@ -1,1 +1,2 @@
-# cryptography-and-Steganography
+# Cryptography
+College minor project
